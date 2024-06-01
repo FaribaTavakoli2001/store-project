@@ -1,7 +1,7 @@
 import React from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import ProductsPage from './pages/ProductsPage'
-import CheckoutPage from './CheckoutPage'
+import CheckoutPage from './pages/CheckoutPage'
 import DetailesPage from './pages/DetailesPage'
 import PageNotFound from './pages/404'
 import ProductProvider from './context/ProductContext'
